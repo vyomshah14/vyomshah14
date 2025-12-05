@@ -32,7 +32,7 @@ A digital platform idea to connect **citizens, kabadiwalas, and recyclers** for 
 > _Goal: Make waste collection more organized, transparent, and efficient._
 
 **Tech:** Python, Java, HTML, CSS, JavaScript  
-👉 (Add link here later: `https://github.com/vyomshah14/renewhub`)
+
 
 ---
 
@@ -40,7 +40,7 @@ A digital platform idea to connect **citizens, kabadiwalas, and recyclers** for 
 A simple **personal website** to showcase my skills, projects, and journey as a developer.
 
 **Tech:** HTML, CSS, JavaScript  
-👉 (Add repo link here later)
+
 
 ---
 
