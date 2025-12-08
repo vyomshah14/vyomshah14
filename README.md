@@ -24,9 +24,9 @@
 
 ---
 
-## 📌 Highlight Projects
+## Highlight Projects 📌 
 
-### 1️⃣ Renewhub – Waste Management Platform
+### 1️ Renewhub – Waste Management Platform
 A digital platform idea to connect **citizens, kabadiwalas, and recyclers** for smoother waste pickup and recycling.
 
 > _Goal: Make waste collection more organized, transparent, and efficient._
@@ -36,7 +36,7 @@ A digital platform idea to connect **citizens, kabadiwalas, and recyclers** for 
 
 ---
 
-### 2️⃣ Portfolio Website
+### 2️ Portfolio Website
 A simple **personal website** to showcase my skills, projects, and journey as a developer.
 
 **Tech:** HTML, CSS, JavaScript  
@@ -44,7 +44,7 @@ A simple **personal website** to showcase my skills, projects, and journey as a 
 
 ---
 
-### 3️⃣ Student Result Management System (Python)
+### 3️ Student Result Management System (Python)
 A **Python-based console app** to store student records, calculate totals, assign grades, and sort by marks.
 
 **Tech:** Python, Lists, Functions, Basic DSA  
