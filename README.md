@@ -3,7 +3,6 @@
 🎓 **B.Tech Computer Science Student**  
 💻 **Aspiring Software Developer**  
 🌱 Interested in **Python, Java, Web Development & Sustainability Tech**  
-♻️ Currently building **Renewhub – a waste management platform**
 
 ---
 
@@ -26,17 +25,7 @@
 
 ## Highlight Projects 📌 
 
-### 1️ [Renewhub – Waste Management Platform](https://github.com/vyomshah14/renewhub)
-A digital platform idea to connect **citizens, kabadiwalas, and recyclers** for smoother waste pickup and recycling.
-
-> _Goal: Make waste collection more organized, transparent, and efficient._
-
-**Tech:** Python, Java, HTML, CSS, JavaScript  
-
-
----
-
-### 2️ [Portfolio Website](https://github.com/vyomshah14/portfoliio)
+### 1️ [Portfolio Website](https://github.com/vyomshah14/portfoliio)
 A sleek, responsive **personal website** designed to showcase my skills, projects, and journey as an aspiring developer.
 
 **Tech:** HTML, CSS, JavaScript  
@@ -44,7 +33,7 @@ A sleek, responsive **personal website** designed to showcase my skills, project
 
 ---
 
-### 3️ [HealthRent](https://github.com/vyomshah14/HealthRent)
+### 2️ [HealthRent](https://github.com/vyomshah14/HealthRent)
 A comprehensive web application designed to facilitate healthcare services or equipment rentals.
 
 **Tech:** HTML, CSS, JavaScript  
