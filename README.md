@@ -44,16 +44,17 @@ A sleek, responsive **personal website** designed to showcase my skills, project
 
 ---
 
-### 3️ [AI File System Toolkit Agent](https://github.com/vyomshah14/Ai-agent-)
-An advanced **AI-assisted File System Agent** built with JavaScript, designed to interact and streamline workflows intelligently.
+### 3️ [HealthRent](https://github.com/vyomshah14/HealthRent)
+A comprehensive web application designed to facilitate healthcare services or equipment rentals.
 
-**Tech:** JavaScript, AI Integrations, Node.js  
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ## Recent Projects & Mini-Apps 🌱
 
 - 📅 **[Attendance Tracker](https://github.com/vyomshah14/Attendance-traker)** – Web app to efficiently track and manage attendance data.
+- 🤖 **[AI Agent Toolkit](https://github.com/vyomshah14/Ai-agent-)** – File System Toolkit Agent utilizing AI and JavaScript.
 - 🚕 **[Ola Clone](https://github.com/vyomshah14/https-github.com-vyomshah14-Ola-Clone)** – Ride-booking interface clone.
 - ✈️ **[Travel Application](https://github.com/vyomshah14/Travel-application-)** – Comprehensive app for exploring destinations and trip planning.
 - 🌤️ **[Weather App](https://github.com/vyomshah14/Weather-fetching)** – Real-time weather application with forecasts and current conditions.
