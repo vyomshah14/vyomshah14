@@ -26,25 +26,30 @@
 ## Highlight Projects 📌 
 
 ### 1️ [Portfolio Website](https://github.com/vyomshah14/portfoliio)
-A sleek, responsive **personal website** designed to showcase my skills, projects, and journey as an aspiring developer.
+A sleek, responsive personal website designed to showcase my skills, projects, and journey as an aspiring developer ([Live Demo](https://vyom-shah.vercel.app/)).
 
 **Tech:** HTML, CSS, JavaScript  
-
 
 ---
 
-### 2️ [HealthRent](https://github.com/vyomshah14/HealthRent)
-A comprehensive web application designed to facilitate healthcare services or equipment rentals.
+### 2️ [Drum Player](https://github.com/vyomshah14/Drum-Player)
+An interactive browser-based drum player with keyboard mapping and audio feedback, built for quick music beats creation ([Live Demo](https://drum-player-inky.vercel.app)).
 
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** JavaScript, HTML, CSS
+
+---
+
+### 3️ [AI Study Buddy](https://github.com/vyomshah14/AI-study-Buddy-)
+An AI-powered interactive companion for studying, resource compilation, and quick concept explanations ([Live Demo](https://ai-study-buddy-five-dun.vercel.app)).
+
+**Tech:** JavaScript, AI API Integration, HTML, CSS
 
 ---
 
 ## Recent Projects & Mini-Apps 🌱
 
+- 🏥 **[HealthRent](https://github.com/vyomshah14/HealthRent)** – A comprehensive web application designed to facilitate healthcare services or equipment rentals.
 - ⚡ **[Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)** – Real-time C++ application for power grid monitoring and telemetry analysis.
-- 🥁 **[Drum Player](https://github.com/vyomshah14/Drum-Player)** – Interactive browser-based drum machine with keyboard mapping ([Live Demo](https://drum-player-inky.vercel.app)).
-- 📚 **[AI Study Buddy](https://github.com/vyomshah14/AI-study-Buddy-)** – AI-powered interactive companion for studying and resource compilation ([Live Demo](https://ai-study-buddy-five-dun.vercel.app)).
 - 📱 **[SocialLite](https://github.com/vyomshah14/SocialLite)** – A lightweight and responsive social media landing interface.
 - 📅 **[Attendance Tracker](https://github.com/vyomshah14/Attendance-traker)** – Web app to efficiently track and manage attendance data.
 - 🤖 **[AI Agent Toolkit](https://github.com/vyomshah14/Ai-agent-)** – File System Toolkit Agent utilizing AI and JavaScript.
