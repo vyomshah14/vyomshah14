@@ -1,73 +1,87 @@
 # Hi, I'm Vyom Shah 👋
 
-🎓 **B.Tech Computer Science Student**  
-💻 **Aspiring Software Developer**  
-🌱 Interested in **Python, Java, Web Development & Sustainability Tech**  
+### B.Tech CSE Student • Software Developer • AI Explorer
+
+I am an ambitious software developer pursuing a B.Tech in Computer Science and Engineering. I focus on building practical, problem-solving applications using **JavaScript/TypeScript**, **Python**, and **C++**, with a strong interest in **AI integrations**, **web development**, and **data structures & algorithms**.
+
+[LinkedIn](https://www.linkedin.com/in/vyom-shah-007632290/) • [GitHub](https://github.com/vyomshah14) • [Portfolio](https://vyom-shah.vercel.app/)
 
 ---
 
 ## 🚀 About Me
-
-- I enjoy building **practical, problem-solving projects**
-- Comfortable with **Python, C**, and **learning Java & full-stack web dev**
-- Exploring **UI/UX**, Git, and open-source to improve how I build and share projects
-- Interested in **green tech, sustainability, and real-world applications of software**
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (CSE) student.
+* 💡 **Interests:** Full-stack web development, AI agent architectures, systems programming, and sustainability tech.
+* 🛠️ **Current Focus:** Developing production-grade web applications, integrating LLM APIs, and refining data structures & algorithms (DSA) skills.
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** Python, C, Java (beginner), JavaScript  
-- **Web:** HTML, CSS, basic JS  
-- **Tools:** Git, GitHub, VS Code, Figma (UI/UX)  
+### Languages & Systems
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
----
+### Frontend & Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-## Highlight Projects 📌 
-
-### 1️ [Portfolio Website](https://github.com/vyomshah14/portfoliio)
-A sleek, responsive personal website designed to showcase my skills, projects, and journey as an aspiring developer ([Live Demo](https://vyom-shah.vercel.app/)).
-
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 2️ [Drum Player](https://github.com/vyomshah14/Drum-Player)
-An interactive browser-based drum player with keyboard mapping and audio feedback, built for quick music beats creation ([Live Demo](https://drum-player-inky.vercel.app)).
-
-**Tech:** JavaScript, HTML, CSS
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 3️ [AI Study Buddy](https://github.com/vyomshah14/AI-study-Buddy-)
-An AI-powered interactive companion for studying, resource compilation, and quick concept explanations ([Live Demo](https://ai-study-buddy-five-dun.vercel.app)).
+## ⭐ Featured Projects
 
-**Tech:** JavaScript, AI API Integration, HTML, CSS
+### 📚 [AI Study Buddy](https://github.com/vyomshah14/AI-study-Buddy-)
+An AI-integrated companion designed to streamline studying, organize student resources, and provide interactive, real-time explanations for complex concepts.
+* **Tech:** JavaScript, HTML, CSS, AI API Integration
+* **Live Demo:** [ai-study-buddy-five-dun.vercel.app](https://ai-study-buddy-five-dun.vercel.app)
+
+### 🥁 [Drum Player](https://github.com/vyomshah14/Drum-Player)
+An interactive browser-based drum instrument that maps keyboard inputs and click gestures to low-latency audio feedback, showcasing responsive UI design and advanced DOM events.
+* **Tech:** JavaScript, HTML, CSS, Web Audio API
+* **Live Demo:** [drum-player-inky.vercel.app](https://drum-player-inky.vercel.app)
+
+### 💻 [Developer Portfolio](https://github.com/vyomshah14/portfoliio)
+A premium, responsive personal portfolio website showcasing my engineering projects, skills, and growth trajectory.
+* **Tech:** HTML, CSS, JavaScript
+* **Live Demo:** [vyom-shah.vercel.app](https://vyom-shah.vercel.app/)
+
+### ⚡ [Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)
+A real-time simulation and monitoring system for electrical power grids, designed to process and analyze simulated sensor telemetry.
+* **Tech:** C++, Systems Programming
+
+### 🤖 [AI Agent Toolkit](https://github.com/vyomshah14/Ai-agent-)
+A file system toolkit agent utilizing generative AI and Google AI Studio APIs to perform automated text analysis and document management.
+* **Tech:** TypeScript, Google AI Studio APIs, Node.js
 
 ---
 
-## Recent Projects & Mini-Apps 🌱
+## 📁 Other Repositories & Mini-Apps
 
-- 🏥 **[HealthRent](https://github.com/vyomshah14/HealthRent)** – A comprehensive web application designed to facilitate healthcare services or equipment rentals.
-- ⚡ **[Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)** – Real-time C++ application for power grid monitoring and telemetry analysis.
-- 📱 **[SocialLite](https://github.com/vyomshah14/SocialLite)** – A lightweight and responsive social media landing interface.
-- 📅 **[Attendance Tracker](https://github.com/vyomshah14/Attendance-traker)** – Web app to efficiently track and manage attendance data.
-- 🤖 **[AI Agent Toolkit](https://github.com/vyomshah14/Ai-agent-)** – File System Toolkit Agent utilizing AI and JavaScript.
-- 🚕 **[Ola Clone](https://github.com/vyomshah14/https-github.com-vyomshah14-Ola-Clone)** – Ride-booking interface clone.
-- ✈️ **[Travel Application](https://github.com/vyomshah14/Travel-application-)** – Comprehensive app for exploring destinations and trip planning.
-- 🌤️ **[Weather App](https://github.com/vyomshah14/Weather-fetching)** – Real-time weather application with forecasts and current conditions.
-- 🎓 **Student Result System** – Python console app with basic DSA for student records processing.
-- 📰 **[News App](https://github.com/vyomshah14/News)** & 🎭 **[Joke Generator](https://github.com/vyomshah14/Joke-generator)** – API-integrated web applications.
-- 📖 **[Story Teller](https://github.com/vyomshah14/Story-teller)** & 🧠 **[Mood Representer](https://github.com/vyomshah14/Mood-Represent)** – Interactive storytelling and mood applications.
-- 🎮 **Mini-Games:** [Whack-a-Mole](https://github.com/vyomshah14/Wake-a-mole), [Tic-Tac-Toe](https://github.com/vyomshah14/TIc-tak-to), and [Heart Click](https://github.com/vyomshah14/heart-click).
+* 🏥 **[HealthRent](https://github.com/vyomshah14/HealthRent)** – A comprehensive rental platform designed for medical equipment and healthcare service scheduling.
+* 📱 **[SocialLite](https://github.com/vyomshah14/SocialLite)** – A lightweight, responsive front-end landing interface for social networking.
+* 📅 **[Attendance Tracker](https://github.com/vyomshah14/Attendance-traker)** – A utility built to monitor, analyze, and manage student attendance records.
+* 🚕 **[Ola Clone](https://github.com/vyomshah14/https-github.com-vyomshah14-Ola-Clone)** – A user interface clone of the ride-hailing Ola app dashboard.
+* 🌤️ **[Weather fetching](https://github.com/vyomshah14/Weather-fetching)** – A real-time weather forecasting client that pulls live meteorology data via weather APIs.
+* 🎭 **[Joke Generator](https://github.com/vyomshah14/Joke-generator)** – A serverless web app that interfaces with third-party APIs to generate context-specific jokes.
+* 🎮 **Classic Arcade & Mini-Games:** [Wake-a-mole](https://github.com/vyomshah14/Wake-a-mole), [TIc-tak-to](https://github.com/vyomshah14/TIc-tak-to), and [Heart Click](https://github.com/vyomshah14/heart-click).
 
 ---
 
+## 📊 GitHub Metrics
 
-## 📫 How to reach me
-
-- **LinkedIn:** [Vyom Shah](https://www.linkedin.com/in/vyom-shah-007632290)
-- **GitHub:** [@vyomshah14](https://github.com/vyomshah14)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vyomshah14&show_icons=true&theme=radical&hide_border=true" alt="Vyom's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyomshah14&layout=compact&theme=radical&hide_border=true" alt="Vyom's Top Languages" height="180" />
+</p>
 
 ---
 ⭐ Always learning, always building.
