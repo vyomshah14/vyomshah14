@@ -86,13 +86,4 @@ A file system toolkit agent utilizing generative AI and Google AI Studio APIs to
 * 🎮 **Classic Arcade & Mini-Games:** [Wake-a-mole](https://github.com/vyomshah14/Wake-a-mole), [TIc-tak-to](https://github.com/vyomshah14/TIc-tak-to), and [Heart Click](https://github.com/vyomshah14/heart-click).
 
 ---
-
-## 📊 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyomshah14&show_icons=true&theme=radical&hide_border=true" alt="Vyom's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyomshah14&layout=compact&theme=radical&hide_border=true" alt="Vyom's Top Languages" height="180" />
-</p>
-
----
 ⭐ Always learning, always building.
