@@ -16,18 +16,18 @@
 
 ---
 
-## 🚀 About Me
-* 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (CSE).
-* 💡 **Interests:** Full-stack development, LLMs & AI agents, system security, and sustainability tech.
-* 🛠️ **Current Focus:** Building production-grade apps, integrating advanced AI APIs, and mastering Data Structures & Algorithms (DSA).
+##  About Me
+*  **Education:** Pursuing B.Tech in Computer Science & Engineering (CSE).
+*  **Interests:** Full-stack development, LLMs & AI agents, system security, and sustainability tech.
+*  **Current Focus:** Building production-grade apps, integrating advanced AI APIs, and mastering Data Structures & Algorithms (DSA).
 
 ---
 
-## 🛡️ Cybersecurity Interests
-While I don't have dedicated public repos for security yet, I am deeply fascinated by the security side of software engineering. Here are the core areas I'm studying:
-* 🔐 **Web Application Security:** Studying secure coding patterns, OWASP Top 10 vulnerabilities (XSS, SQLi, CSRF), and prevention techniques.
-* 🌐 **Network Security:** Learning about secure communication protocols, handshakes, firewalls, and network scanning fundamentals.
-* 🕵️‍♂️ **System Hardening:** Diving into OS security, basic access control mechanisms, and encryption algorithms.
+##  Cybersecurity & Defensive Tech (Active Learner)
+Rather than fancy titles, I am focused on building solid security fundamentals in software development. Here is what I am actively studying and practicing:
+*  **Web App Security & OWASP:** Understanding common vulnerabilities (SQLi, XSS, CSRF) and solving labs on platforms like **PortSwigger Web Security Academy** and **TryHackMe**.
+*  **Defensive Coding:** Implementing security best practices in my projects—such as secure password hashing (bcrypt), token-based authentication (JWT), and thorough API input sanitization.
+*  **Network & Protocol Basics:** Studying network protocol mechanisms (TLS handshakes, SSH, HTTP headers) and practicing basic traffic inspection using tools like Wireshark.
 
 ---
 
@@ -43,16 +43,16 @@ While I don't have dedicated public repos for security yet, I am deeply fascinat
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-### 🌐 Frontend & Web Development
+###  Frontend & Web Development
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### 💾 Databases & Security Concepts
+###  Databases & Security Concepts
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E94560?style=for-the-badge&logo=target&logoColor=white)](#)
 
-### ⚙️ Tools, Infrastructure & Design
+###  Tools, Infrastructure & Design
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -63,45 +63,45 @@ While I don't have dedicated public repos for security yet, I am deeply fascinat
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 📚 [AI Study Buddy](https://github.com/vyomshah14/ai-study-buddy)
+###  [AI Study Buddy](https://github.com/vyomshah14/ai-study-buddy)
 An AI-integrated companion designed to streamline studying, organize student resources, and provide interactive, real-time explanations for complex concepts.
 * **Tech:** `JavaScript` `HTML` `CSS` `Generative AI APIs`
 * **Live Demo:** [ai-study-buddy-five-dun.vercel.app](https://ai-study-buddy-five-dun.vercel.app)
 
-### 🥁 [Drum Player](https://github.com/vyomshah14/Drum-Player)
+###  [Drum Player](https://github.com/vyomshah14/Drum-Player)
 An interactive browser-based drum instrument that maps keyboard inputs and click gestures to low-latency audio feedback, showcasing responsive UI design and advanced DOM events.
 * **Tech:** `JavaScript` `HTML` `CSS` `Web Audio API`
 * **Live Demo:** [drum-player-inky.vercel.app](https://drum-player-inky.vercel.app)
 
-### 💻 [Developer Portfolio](https://github.com/vyomshah14/portfoliio)
+###  [Developer Portfolio](https://github.com/vyomshah14/portfoliio)
 A premium, responsive personal portfolio website showcasing my engineering projects, skills, and growth trajectory.
 * **Tech:** `HTML` `CSS` `JavaScript`
 * **Live Demo:** [vyom-shah.vercel.app](https://vyom-shah.vercel.app/)
 
-### ⚡ [Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)
+###  [Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)
 A real-time simulation and monitoring system for electrical power grids, designed to process and analyze simulated sensor telemetry.
 * **Tech:** `C++` `Systems Programming`
 
-### 🤖 [AI Agent Toolkit](https://github.com/vyomshah14/ai-agent-toolkit)
+###  [AI Agent Toolkit](https://github.com/vyomshah14/ai-agent-toolkit)
 A file system toolkit agent utilizing generative AI and Google AI Studio APIs to perform automated text analysis and document management.
 * **Tech:** `TypeScript` `Google AI Studio APIs` `Node.js`
 
 ---
 
-## 📁 Other Repositories & Mini-Apps
-* 🏥 **[HealthRent](https://github.com/vyomshah14/HealthRent)** – A comprehensive rental platform designed for medical equipment and healthcare service scheduling.
-* 📱 **[SocialLite](https://github.com/vyomshah14/SocialLite)** – A lightweight, responsive front-end landing interface for social networking.
-* 📅 **[Attendance Tracker](https://github.com/vyomshah14/attendance-tracker)** – A utility built to monitor, analyze, and manage student attendance records.
-* 🚕 **[Ola Clone](https://github.com/vyomshah14/https-github.com-vyomshah14-Ola-Clone)** – A user interface clone of the ride-hailing Ola app dashboard.
-* 🌤️ **[Weather fetching](https://github.com/vyomshah14/Weather-fetching)** – A real-time weather forecasting client that pulls live meteorology data via weather APIs.
-* 🎭 **[Joke Generator](https://github.com/vyomshah14/Joke-generator)** – A serverless web app that interfaces with third-party APIs to generate context-specific jokes.
-* 🎮 **Classic Arcade & Mini-Games:** [Wake-a-mole](https://github.com/vyomshah14/Wake-a-mole), [TIc-tak-to](https://github.com/vyomshah14/TIc-tak-to), and [Heart Click](https://github.com/vyomshah14/heart-click).
+##  Other Repositories & Mini-Apps
+*   **[HealthRent](https://github.com/vyomshah14/HealthRent)** – A comprehensive rental platform designed for medical equipment and healthcare service scheduling.
+*  **[SocialLite](https://github.com/vyomshah14/SocialLite)** – A lightweight, responsive front-end landing interface for social networking.
+*   **[Attendance Tracker](https://github.com/vyomshah14/attendance-tracker)** – A utility built to monitor, analyze, and manage student attendance records.
+*   **[Ola Clone](https://github.com/vyomshah14/https-github.com-vyomshah14-Ola-Clone)** – A user interface clone of the ride-hailing Ola app dashboard.
+*   **[Weather fetching](https://github.com/vyomshah14/Weather-fetching)** – A real-time weather forecasting client that pulls live meteorology data via weather APIs.
+*   **[Joke Generator](https://github.com/vyomshah14/Joke-generator)** – A serverless web app that interfaces with third-party APIs to generate context-specific jokes.
+*   **Classic Arcade & Mini-Games:** [Wake-a-mole](https://github.com/vyomshah14/Wake-a-mole), [TIc-tak-to](https://github.com/vyomshah14/TIc-tak-to), and [Heart Click](https://github.com/vyomshah14/heart-click).
 
 ---
 
-## 📊 GitHub Analytics & Insights
+##  GitHub Analytics & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vyomshah14&show_icons=true&theme=tokyonight&count_private=true" alt="Vyom's GitHub Stats" height="190px" />
@@ -112,6 +112,6 @@ A file system toolkit agent utilizing generative AI and Google AI Studio APIs to
 
 ---
 <p align="center">
-  ⭐ <i>Always learning, always building.</i>
+   <i>Always learning, always building.</i>
 </p>
 
