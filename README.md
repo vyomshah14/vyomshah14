@@ -104,8 +104,6 @@ A file system toolkit agent utilizing generative AI and Google AI Studio APIs to
 ##  GitHub Analytics & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyomshah14&show_icons=true&theme=tokyonight&count_private=true" alt="Vyom's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyomshah14&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190px" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyomshah14&theme=tokyonight" alt="GitHub Streak" />
 </div>
