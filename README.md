@@ -45,6 +45,7 @@ Rather than fancy titles, I am focused on building solid security fundamentals i
 
 ###  Frontend & Web Development
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -67,17 +68,17 @@ Rather than fancy titles, I am focused on building solid security fundamentals i
 
 ###  [AI Study Buddy](https://github.com/vyomshah14/ai-study-buddy)
 An AI-integrated companion designed to streamline studying, organize student resources, and provide interactive, real-time explanations for complex concepts.
-* **Tech:** `JavaScript` `HTML` `CSS` `Generative AI APIs`
+* **Tech:** `React` `Vite` `JavaScript` `Generative AI APIs`
 * **Live Demo:** [ai-study-buddy-five-dun.vercel.app](https://ai-study-buddy-five-dun.vercel.app)
 
 ###  [Drum Player](https://github.com/vyomshah14/Drum-Player)
 An interactive browser-based drum instrument that maps keyboard inputs and click gestures to low-latency audio feedback, showcasing responsive UI design and advanced DOM events.
-* **Tech:** `JavaScript` `HTML` `CSS` `Web Audio API`
+* **Tech:** `React` `Vite` `JavaScript` `Web Audio API`
 * **Live Demo:** [drum-player-inky.vercel.app](https://drum-player-inky.vercel.app)
 
 ###  [Developer Portfolio](https://github.com/vyomshah14/portfoliio)
 A premium, responsive personal portfolio website showcasing my engineering projects, skills, and growth trajectory.
-* **Tech:** `HTML` `CSS` `JavaScript`
+* **Tech:** `React` `Vite` `JavaScript`
 * **Live Demo:** [vyom-shah.vercel.app](https://vyom-shah.vercel.app/)
 
 ###  [Power Grid Monitoring](https://github.com/vyomshah14/Power-Grid-Monitoring)
